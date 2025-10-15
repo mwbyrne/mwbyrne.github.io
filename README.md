@@ -1,97 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ashe McElroy – Author</title>
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'EB Garamond', serif;
-      margin: 0;
-      background: #fefefe;
-      color: #222;
-      line-height: 1.6;
-    }
-    header {
-      background: #1a1a1a;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    main {
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-    h2 {
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 0.5rem;
-    }
-    a {
-      color: #0055aa;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .book {
-      background: #f2f2f2;
-      padding: 1rem;
-      margin: 1rem 0;
-      border-radius: 8px;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      font-size: 0.9rem;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Ashe McElroy</h1>
-    <p>Author • Voice Artist • Literary Agent Provocateur</p>
-  </header>
-  <main>
-    <section id="about">
-      <h2>About</h2>
-      <p>
-        Ashe McElroy writes surreal fiction and self-help with equal parts
-        biting wit and wounded grace. When not peering into the existential
-        dread of modern life, they can be found formatting books, whispering
-        into microphones, or debating the metaphysics of tofu.
-      </p>
-    </section>
+You can use the [editor on GitHub](https://github.com/mwbyrne/mwbyrne.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-    <section id="books">
-      <h2>Books</h2>
-      <div class="book">
-        <h3><em>Title of Your Book</em></h3>
-        <p>A brief description or tagline for the book. Link to buy or learn more below.</p>
-        <p><a href="#">Buy on Amazon</a></p>
-      </div>
-    </section>
+### Markdown
 
-    <section id="contact">
-      <h2>Connect</h2>
-      <p>
-        Email: <a href="mailto:your@email.com">your@email.com</a><br/>
-        Twitter: <a href="https://twitter.com/yourhandle">@yourhandle</a><br/>
-        YouTube: <a href="https://youtube.com/yourchannel">YourChannel</a>
-      </p>
-    </section>
-  </main>
-  <footer>
-    &copy; 2025 Ashe McElroy. All rights reserved.
-  </footer>
-</body>
-</html>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mwbyrne/mwbyrne.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
